@@ -23,4 +23,4 @@ pip install pandas sqlite
 ```
 
 ## Multiprocessing
-Parallelising code with python is easy. Use the libraries `multiprocessing` and `multithreading` (same interface!) and you're good to go in 3 lines of code (see the [sqlite notebook](./sqlite.ipynb))
+Parallelising code with python is easy. Use the libraries `multiprocessing` and `multithreading` (same interface!) and you're good to go in 3 lines of code (see the [multiprocessing notebook](./multiprocessing.ipynb))
