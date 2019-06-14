@@ -1,0 +1,15 @@
+{
+
+    "lines.linewidth": 3.0,
+
+    "font.family": "serif",
+    "font.size": 22,
+
+    "xtick.labelsize": 12,
+    "ytick.labelsize": 12,
+    "axes.labelsize": 16,
+    "axes.titlesize": 20,
+
+    "figure.figsize": [10, 6]
+
+}
